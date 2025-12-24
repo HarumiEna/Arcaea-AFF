@@ -32289,6 +32289,198 @@
                     "rating": 10
                 }
             ]
+        },
+        {
+            "idx": 508,
+            "id": "undefined",
+            "title_localized": {
+                "en": "undefined"
+            },
+            "artist": "planless & 乃花こより",
+            "search_title": {
+                "ja": [
+                    "あんでふぁいんど"
+                ],
+                "ko": [
+                    "언디파인드"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "nohana koyori"
+                ],
+                "ja": [
+                    "ぷらんれす",
+                    "のはなこより"
+                ],
+                "ko": [
+                    "플랜리스",
+                    "노하나 코요리"
+                ]
+            },
+            "bpm": "110",
+            "bpm_base": 110,
+            "set": "extend_4",
+            "purchase": "extend_4",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "single2_conflict",
+            "bg_inverse": "single2_light",
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1766534400,
+            "version": "6.11",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "sidewaves",
+                    "jacketDesigner": "るあえる",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "sidewaves",
+                    "jacketDesigner": "るあえる",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "sidewaves + Nitro",
+                    "jacketDesigner": "るあえる",
+                    "rating": 9
+                }
+            ]
+        },
+        {
+            "idx": 509,
+            "id": "mask",
+            "title_localized": {
+                "en": "~_+"
+            },
+            "artist": "AQUASINE ~ MEMODEMO + METAROOM",
+            "search_title": {
+                "en": [
+                    "mask"
+                ],
+                "ja": [
+                    "ますく"
+                ],
+                "ko": [
+                    "마스크"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "あくあさいん",
+                    "めもでも",
+                    "めたるーむ"
+                ],
+                "ko": [
+                    "아쿠아사인",
+                    "메모데모",
+                    "메타룸"
+                ]
+            },
+            "bpm": "213.5",
+            "bpm_base": 213.5,
+            "set": "extend_4",
+            "purchase": "extend_4",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "nijuusei2_light",
+            "bg_inverse": "nijuusei2_conflict",
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1766534401,
+            "version": "6.11",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "KARA+_~1.TMP",
+                    "jacketDesigner": "なのに！",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "KARA+_~1.TMP",
+                    "jacketDesigner": "なのに！",
+                    "rating": 8
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "KARA+_~1.TMP",
+                    "jacketDesigner": "なのに！",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 510,
+            "id": "paranoidarc",
+            "title_localized": {
+                "en": "Paranoid Arc"
+            },
+            "artist": "t+pazolite",
+            "search_title": {
+                "ja": [
+                    "ぱらのいどあーく"
+                ],
+                "ko": [
+                    "파라노이드 아크"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "とぱぞらいと"
+                ],
+                "ko": [
+                    "토파졸라이트"
+                ]
+            },
+            "bpm": "180",
+            "bpm_base": 180,
+            "set": "single",
+            "purchase": "paranoidarc",
+            "category": "partner",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "vs_conflict",
+            "bg_inverse": "vs_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1766534402,
+            "version": "6.11",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Exschwasion v.●/○/○",
+                    "jacketDesigner": "まるい",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Exschwasion v.●/○/○",
+                    "jacketDesigner": "まるい",
+                    "rating": 7,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Exschwasion v.●/○/○",
+                    "jacketDesigner": "まるい",
+                    "rating": 9
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "Exschwasion v.●/○/○",
+                    "jacketDesigner": "まるい",
+                    "rating": 10
+                }
+            ]
         }
     ]
 }
