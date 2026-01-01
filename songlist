@@ -32481,6 +32481,79 @@
                     "rating": 10
                 }
             ]
+        },
+        {
+            "idx": 511,
+            "id": "subsphere",
+            "title_localized": {
+                "en": "Subsphere in Eclosion",
+				"ja": "羽化する亜球体"
+            },
+            "artist": "窓辺リカ",
+            "search_title": {
+                "en": [
+                    "uka suru akyuutai"
+                ],
+                "ja": [
+                    "うかするあきゅうたい"
+                ],
+                "ko": [
+                    "어브스피어 인 이클로전",
+                    "우카스루 아큐우타이",
+                    "우화하는 아구체"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "madobe rika"
+                ],
+                "ja": [
+                    "まどべりか"
+                ],
+                "ko": [
+                    "마도베 리카"
+                ]
+            },
+            "bpm": "120",
+            "bpm_base": 240,
+            "set": "single",
+            "purchase": "subsphere",
+            "category": "partner",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "observer_light",
+            "bg_inverse": "observer_conflict",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1767139200,
+            "version": "6.11",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Nitro v.○/●/○",
+                    "jacketDesigner": "scocasr",
+                    "rating": 5
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Nitro v.○/●/○",
+                    "jacketDesigner": "scocasr",
+                    "rating": 8
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Nitro v.○/●/○",
+                    "jacketDesigner": "scocasr",
+                    "rating": 9
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "Nitro v.○/●/○",
+                    "jacketDesigner": "scocasr",
+                    "rating": 10
+                }
+            ]
         }
     ]
 }
