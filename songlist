@@ -32399,19 +32399,19 @@
                 {
                     "ratingClass": 0,
                     "chartDesigner": "KARA+_~1.TMP",
-                    "jacketDesigner": "なのに！",
+                    "jacketDesigner": "なのに！ + Vormis.",
                     "rating": 4
                 },
                 {
                     "ratingClass": 1,
                     "chartDesigner": "KARA+_~1.TMP",
-                    "jacketDesigner": "なのに！",
+                    "jacketDesigner": "なのに！ + Vormis.",
                     "rating": 8
                 },
                 {
                     "ratingClass": 2,
                     "chartDesigner": "KARA+_~1.TMP",
-                    "jacketDesigner": "なのに！",
+                    "jacketDesigner": "なのに！ + Vormis.",
                     "rating": 9,
                     "ratingPlus": true
                 }
@@ -32551,6 +32551,79 @@
                     "ratingClass": 4,
                     "chartDesigner": "Nitro v.○/●/○",
                     "jacketDesigner": "scocasr",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 512,
+            "id": "theraft",
+            "title_localized": {
+                "en": "The 'Raft' taught me: your heart will always find a way.",
+				"ja": "［筏］は云う。幾ら漂流すれど不撓の心さえ有れば軈て行到ると。"
+            },
+            "artist": "庭師",
+            "search_title": {
+                "en": [
+                    "ikada ha iu ikura hyouryuu suredo futou no kokoro sae areba yagate yukiitaru to"
+                ],
+                "ja": [
+                    "いかだはいういくらひょうりゅうすれどふとうのこころさえあればやがてゆきいたると"
+                ],
+                "ko": [
+                    "더 래프트 토우트 미 유어 하트 윌 올웨이즈 파인드 어 웨이",
+                    "이카다 와 이우 이쿠라 효우류우 스레도 후토우 노 코코로 사에 아레바 야가테 유키이타루토",
+                    "뗏목은 말한다 아무리 표류하더라도 불굴의 마음만 있다면 언젠가 도달할 수 있으리라고"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "niwashi"
+                ],
+                "ja": [
+                    "にわし"
+                ],
+                "ko": [
+                    "니와시"
+                ]
+            },
+            "bpm": "161",
+            "bpm_base": 161,
+            "set": "single",
+            "purchase": "theraft",
+            "category": "partner",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "eden_conflict",
+            "bg_inverse": "eden_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1767744000,
+            "version": "6.11",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Interator",
+                    "jacketDesigner": "色塩",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Interator",
+                    "jacketDesigner": "色塩",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Interator",
+                    "jacketDesigner": "色塩",
+                    "rating": 9
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "raycast v.○/○/●",
+                    "jacketDesigner": "色塩",
                     "rating": 10
                 }
             ]
