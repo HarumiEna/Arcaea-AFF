@@ -32487,7 +32487,7 @@
             "id": "subsphere",
             "title_localized": {
                 "en": "Subsphere in Eclosion",
-				"ja": "羽化する亜球体"
+                "ja": "羽化する亜球体"
             },
             "artist": "窓辺リカ",
             "search_title": {
@@ -32625,6 +32625,398 @@
                     "chartDesigner": "raycast v.○/○/●",
                     "jacketDesigner": "色塩",
                     "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 513,
+            "id": "omajinai",
+            "title_localized": {
+                "en": "OMAJINAI",
+                "ja": "おまじない"
+            },
+            "artist": "Tsubusare BOZZ × Madoka*",
+            "search_title": {
+                "ko": [
+                    "오마지나이",
+                    "주문"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "つぶされぼっず",
+                    "まどか"
+                ],
+                "ko": [
+                    "스부사레 봇즈",
+                    "마도카"
+                ]
+            },
+            "bpm": "133",
+            "bpm_base": 133,
+            "set": "extend_4",
+            "purchase": "extend_4",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "megarex_light",
+            "bg_inverse": "megarex_conflict",
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1769644800,
+            "version": "6.12",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Souplex",
+                    "jacketDesigner": "Poyoshi + 内山ユニコ",
+                    "rating": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Souplex",
+                    "jacketDesigner": "Poyoshi + 内山ユニコ",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Souplex",
+                    "jacketDesigner": "Poyoshi + 内山ユニコ",
+                    "rating": 9
+                }
+            ]
+        },
+        {
+            "idx": 514,
+            "id": "chaintonite",
+            "title_localized": {
+                "en": "CHAIN2NITE"
+            },
+            "artist": "asuzora feat. cyber milk ちゃん",
+            "search_title": {
+                "ja": [
+                    "ちぇいんとぅないと"
+                ],
+                "ko": [
+                    "체인 투나잇",
+                    "체인 투나이트"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "cyber milk chan"
+                ],
+                "ja": [
+                    "あすぞら",
+                    "さいばーみるくちゃん"
+                ],
+                "ko": [
+                    "아스조라",
+                    "사이버 밀크쨩"
+                ]
+            },
+            "bpm": "172",
+            "bpm_base": 172,
+            "set": "megarex",
+            "purchase": "megarex",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "megarex_conflict",
+            "bg_inverse": "megarex_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1769644801,
+            "version": "6.12",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "raycast",
+                    "jacketDesigner": "Poyoshi",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "raycast",
+                    "jacketDesigner": "Poyoshi",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "raycast",
+                    "jacketDesigner": "Poyoshi",
+                    "rating": 8
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "raycast",
+                    "jacketDesigner": "Poyoshi",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 515,
+            "id": "onestepcloser",
+            "title_localized": {
+                "en": "One Step Closer"
+            },
+            "artist": "Mameyudoufu × 藍月なくる",
+            "search_title": {
+                "ja": [
+                    "わんすてっぷくろーさー"
+                ],
+                "ko": [
+                    "원 스텝 클로저"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "aitsuki nakuru"
+                ],
+                "ja": [
+                    "まめゆどうふ",
+                    "あいつきなくる"
+                ],
+                "ko": [
+                    "마메유도후",
+                    "아이츠키 나쿠루"
+                ]
+            },
+            "bpm": "123",
+            "bpm_base": 123,
+            "set": "megarex",
+            "purchase": "megarex",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "megarex_light",
+            "bg_inverse": "megarex_conflict",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1769644802,
+            "version": "6.12",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Nitroだー！",
+                    "jacketDesigner": "Poyoshi + はぐはむ",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Nitroだー！",
+                    "jacketDesigner": "Poyoshi + はぐはむ",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Nitroだー！",
+                    "jacketDesigner": "Poyoshi + はぐはむ",
+                    "rating": 9
+                }
+            ]
+        },
+        {
+            "idx": 516,
+            "id": "mylifeismine",
+            "title_localized": {
+                "en": "My life is mine alone!"
+            },
+            "artist": "Mylta feat. ねんね",
+            "search_title": {
+                "ja": [
+                    "まいらいふいずまいんあろーん"
+                ],
+                "ko": [
+                    "마이 라이프 이즈 마인 얼론"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "nenne"
+                ],
+                "ja": [
+                    "みるた"
+                ],
+                "ko": [
+                    "밀타",
+                    "미르타",
+                    "넨네"
+                ]
+            },
+            "bpm": "144-168",
+            "bpm_base": 144,
+            "set": "megarex",
+            "purchase": "megarex",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "megarex_light",
+            "bg_inverse": "megarex_conflict",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1769644803,
+            "version": "6.12",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Nitro",
+                    "jacketDesigner": "Poyoshi",
+                    "rating": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Nitro",
+                    "jacketDesigner": "Poyoshi",
+                    "rating": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Nitro",
+                    "jacketDesigner": "Poyoshi",
+                    "rating": 8,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "antymis",
+                    "jacketDesigner": "",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 517,
+            "id": "meltyrhapsody",
+            "title_localized": {
+                "en": "Melty Rhapsody",
+                "ja": "メルティーラプソディー"
+            },
+            "artist": "lapix feat. PANXI",
+            "search_title": {
+                "en": [
+                    "merutexi rapusodexi"
+                ],
+                "ko": [
+                    "멜티 랩소디"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "らぴす",
+                    "ぱんしー"
+                ],
+                "ko": [
+                    "라픽스",
+                    "판시"
+                ]
+            },
+            "bpm": "156",
+            "bpm_base": 156,
+            "set": "megarex",
+            "purchase": "megarex",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "megarex_light",
+            "bg_inverse": "megarex_conflict",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1769644804,
+            "version": "6.12",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "M理論_liquid",
+                    "jacketDesigner": "辷 + Vormis.",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "M理論_liquid",
+                    "jacketDesigner": "辷 + Vormis.",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "M理論_liquid",
+                    "jacketDesigner": "辷 + Vormis.",
+                    "rating": 9
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "M理論_liquid",
+                    "jacketDesigner": "辷 + Vormis.",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 518,
+            "id": "signal",
+            "title_localized": {
+                "en": "Signal"
+            },
+            "artist": "rejection feat. Such",
+            "search_title": {
+                "ja": [
+                    "しぐなる"
+                ],
+                "ko": [
+                    "시그널"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "りじぇくしょん",
+                    "さち"
+                ],
+                "ko": [
+                    "리젝션",
+                    "서치"
+                ]
+            },
+            "bpm": "175",
+            "bpm_base": 175,
+            "set": "megarex",
+            "purchase": "megarex",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "megarex_signal",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1769644805,
+            "version": "6.12",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "én",
+                    "jacketDesigner": "Poyoshi",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "én",
+                    "jacketDesigner": "Poyoshi",
+                    "rating": 7,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "én",
+                    "jacketDesigner": "Poyoshi",
+                    "rating": 9,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "絶滅",
+                    "jacketDesigner": "Poyoshi",
+                    "rating": 10,
+                    "ratingPlus": true
                 }
             ]
         }
