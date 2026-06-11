@@ -33955,6 +33955,261 @@
                     "rating": 10
                 }
             ]
+        },
+        {
+            "idx": 532,
+            "id": "cosmogyral",
+            "title_localized": {
+                "en": "Cosmogyral"
+            },
+            "artist": "Darren + Altermis",
+            "search_title": {
+                "ja": [
+                    "こすもじゃいらる"
+                ],
+                "ko": [
+                    "코스모자이럴",
+                    "코스모자이랄"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "だれん",
+                    "おるたーみす"
+                ],
+                "ko": [
+                    "대런",
+                    "다렌",
+                    "알터미스"
+                ]
+            },
+            "bpm": "180",
+            "bpm_base": 180,
+            "set": "extend_4",
+            "purchase": "extend_4",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "nijuusei2_light",
+            "bg_inverse": "nijuusei2_conflict",
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1779926400,
+            "version": "6.14",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Interator",
+                    "jacketDesigner": "57_dayo",
+                    "rating": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Interator",
+                    "jacketDesigner": "57_dayo",
+                    "rating": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Interator",
+                    "jacketDesigner": "57_dayo",
+                    "rating": 8
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "Interator",
+                    "jacketDesigner": "57_dayo",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 533,
+            "id": "flexidefine",
+            "title_localized": {
+                "en": "flexidefine"
+            },
+            "artist": "Lamanya",
+            "search_title": {
+                "ja": [
+                    "ふれきしでぃふぁいん"
+                ],
+                "ko": [
+                    "플렉시디파인"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "らまにゃ"
+                ],
+                "ko": [
+                    "라마냐"
+                ]
+            },
+            "bpm": "197",
+            "bpm_base": 197,
+            "set": "extend_4",
+            "purchase": "extend_4",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "prelude_conflict",
+            "bg_inverse": "prelude_light",
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1779926401,
+            "version": "6.14",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "flexi::feline",
+                    "jacketDesigner": "Lamanya",
+                    "rating": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "flexi::feline",
+                    "jacketDesigner": "Lamanya",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "flexi::feline",
+                    "jacketDesigner": "Lamanya",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 534,
+            "id": "altersist",
+            "title_localized": {
+                "en": "Altersist"
+            },
+            "artist": "void (Mournfinale)",
+            "search_title": {
+                "ja": [
+                    "おるたーしすと"
+                ],
+                "ko": [
+                    "알터시스트"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "ぼいど"
+                ],
+                "ko": [
+                    "보이드"
+                ]
+            },
+            "bpm": "138",
+            "bpm_base": 138,
+            "set": "single",
+            "purchase": "altersist",
+            "category": "variety",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "eden_light",
+            "bg_inverse": "eden_conflict",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1779926402,
+            "version": "6.14",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "sidewaves",
+                    "jacketDesigner": "HARDLOVE",
+                    "rating": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "sidewaves",
+                    "jacketDesigner": "HARDLOVE",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "sidewaves",
+                    "jacketDesigner": "HARDLOVE",
+                    "rating": 8
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "sidewaves",
+                    "jacketDesigner": "HARDLOVE",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 535,
+            "id": "csqn",
+            "title_localized": {
+                "en": "c.s.q.n."
+            },
+            "artist": "Aoi",
+            "search_title": {
+                "ja": [
+                    "しーえすきゅーえぬ"
+                ],
+                "ko": [
+                    "시 에스 큐 엔"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "あおい"
+                ],
+                "ko": [
+                    "아오이"
+                ]
+            },
+            "bpm": "174",
+            "bpm_base": 174,
+            "set": "single",
+            "purchase": "csqn",
+            "category": "variety",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "single2_conflict",
+            "bg_inverse": "single2_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1779926403,
+            "version": "6.14",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Nitro",
+                    "jacketDesigner": "出前",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Nitro",
+                    "jacketDesigner": "出前",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Nitro",
+                    "jacketDesigner": "出前",
+                    "rating": 9
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "Nitro",
+                    "jacketDesigner": "出前",
+                    "rating": 10
+                }
+            ]
         }
     ]
 }
