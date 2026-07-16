@@ -33987,6 +33987,10 @@
             "bpm_base": 180,
             "set": "extend_4",
             "purchase": "extend_4",
+            "source_localized": {
+                "en": "vivid/stasis"
+            },
+            "source_copyright": "(Hajimeli)",
             "audioPreview": 0,
             "audioPreviewEnd": 0,
             "side": 0,
@@ -34207,6 +34211,418 @@
                     "ratingClass": 4,
                     "chartDesigner": "Nitro",
                     "jacketDesigner": "出前",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 536,
+            "id": "sucromania",
+            "title_localized": {
+                "en": "Sucromania",
+				"ja": "ザラメノキワミ"
+            },
+            "artist": "STEAKA",
+            "search_title": {
+                "en": [
+                    "zaramenokiwami"
+                ],
+                "ko": [
+                    "수크로마니아",
+                    "자라메노키와미"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "すてあか"
+                ],
+                "ko": [
+                    "스테카"
+                ]
+            },
+            "bpm": "148",
+            "bpm_base": 148,
+            "set": "single",
+            "purchase": "sucromania",
+            "category": "original",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "hime_conflict",
+            "bg_inverse": "hime_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1782345600,
+            "version": "6.15",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Souplex",
+                    "jacketDesigner": "獏井 夢",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Souplex",
+                    "jacketDesigner": "獏井 夢",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Souplex",
+                    "jacketDesigner": "獏井 夢",
+                    "rating": 9
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "karat",
+                    "jacketDesigner": "獏井 夢",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 537,
+            "id": "lavie",
+            "title_localized": {
+                "en": "Lavie",
+				"ja": "ラヴィ"
+            },
+            "artist": "すりぃ",
+            "search_title": {
+                "en": [
+                    "ravi"
+                ],
+                "ko": [
+                    "라비"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "surii",
+                    "threee"
+                ],
+                "ko": [
+                    "스리이"
+                ]
+            },
+            "bpm": "183",
+            "bpm_base": 183,
+            "set": "virtualsingers",
+            "purchase": "virtualsingers",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "virtualsingers_conflict",
+            "bg_inverse": "virtualsingers_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "source_copyright": "©すりぃ",
+            "date": 1782345601,
+            "version": "6.15",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Nitro",
+                    "jacketDesigner": "",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Nitro",
+                    "jacketDesigner": "",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Nitro",
+                    "jacketDesigner": "",
+                    "rating": 8,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "sidewavesチュウ",
+                    "jacketDesigner": "",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 538,
+            "id": "kamippoi",
+            "title_localized": {
+                "en": "God-ish",
+				"ja": "神っぽいな"
+            },
+            "artist": "ピノキオピー",
+            "search_title": {
+                "en": [
+                    "kamippoina"
+                ],
+                "ja": [
+                    "かみっぽいな"
+                ],
+                "ko": [
+                    "신 같네",
+                    "카밋포이나",
+                    "카밋뽀이나",
+                    "가디시"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "pinokiopi",
+                    "pinocchiop"
+                ],
+                "ko": [
+                    "피노키오피",
+                    ""
+                ]
+            },
+            "bpm": "103-142",
+            "bpm_base": 142,
+            "set": "virtualsingers",
+            "purchase": "virtualsingers",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "virtualsingers_conflict",
+            "bg_inverse": "virtualsingers_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "source_copyright": "©mui",
+            "date": 1782345602,
+            "version": "6.15",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "絶滅っぽいな",
+                    "jacketDesigner": "",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "絶滅っぽいな",
+                    "jacketDesigner": "",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "絶滅っぽいな",
+                    "jacketDesigner": "",
+                    "rating": 9
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "絶滅っぽいな",
+                    "jacketDesigner": "",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 539,
+            "id": "override",
+            "title_localized": {
+                "en": "Override",
+				"ja": "オーバーライド"
+            },
+            "artist": "吉田夜世",
+            "search_title": {
+                "en": [
+                    "obaraido"
+                ],
+                "ko": [
+                    "오버라이드"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "yoshida yasei"
+                ],
+                "ja": [
+                    "よしだやせい"
+                ],
+                "ko": [
+                    "오버라이드"
+                ]
+            },
+            "bpm": "204",
+            "bpm_base": 204,
+            "set": "virtualsingers",
+            "purchase": "virtualsingers",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "virtualsingers_light",
+            "bg_inverse": "virtualsingers_conflict",
+            "remote_dl": true,
+            "world_unlock": false,
+            "source_copyright": "©吉田夜世",
+            "date": 1782345603,
+            "version": "6.15",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "sudo M理論",
+                    "jacketDesigner": "辷 + SARYN",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "sudo M理論",
+                    "jacketDesigner": "辷 + SARYN",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "sudo M理論",
+                    "jacketDesigner": "辷 + SARYN",
+                    "rating": 9
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "sudo M理論",
+                    "jacketDesigner": "辷 + SARYN",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 540,
+            "id": "telepathy",
+            "title_localized": {
+                "en": "Telepathy",
+				"ja": "テレパシ"
+            },
+            "artist": "DECO*27",
+            "search_title": {
+                "en": [
+                    "terepashi"
+                ],
+                "ko": [
+                    "텔레파시"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "でこにーな"
+                ],
+                "ko": [
+                    "데코니나"
+                ]
+            },
+            "bpm": "205",
+            "bpm_base": 205,
+            "set": "virtualsingers",
+            "purchase": "virtualsingers",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "virtualsingers_light",
+            "bg_inverse": "virtualsingers_conflict",
+            "remote_dl": true,
+            "source_copyright": "© DECO*27 © OTOIRO",
+            "world_unlock": false,
+            "date": 1782345604,
+            "version": "6.15",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": ";-b",
+                    "jacketDesigner": "",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": ";-b",
+                    "jacketDesigner": "",
+                    "rating": 7,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": ";-b",
+                    "jacketDesigner": "",
+                    "rating": 9
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": ";-b",
+                    "jacketDesigner": "",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 541,
+            "id": "aishite",
+            "title_localized": {
+                "en": "Love me, Love me, Love me",
+				"ja": "愛して愛して愛して"
+            },
+            "artist": "きくお",
+            "search_title": {
+                "en": [
+                    "aishiteaishiteaishite"
+                ],
+                "ja": [
+                    "あいしてあいしてあいして"
+                ],
+                "ko": [
+                    "사랑해줘 사랑해줘 사랑해줘",
+                    "아이시테 아이시테 아이시테",
+                    "러브 미 러브 미 러브 미"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "kikuo"
+                ],
+                "ko": [
+                    "키쿠오"
+                ]
+            },
+            "bpm": "230",
+            "bpm_base": 230,
+            "set": "virtualsingers",
+            "purchase": "virtualsingers",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "virtualsingers_conflict",
+            "bg_inverse": "virtualsingers_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "source_copyright": "©きくお",
+            "date": 1782345605,
+            "version": "6.15",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "反水反水反水",
+                    "jacketDesigner": "",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "反水反水反水",
+                    "jacketDesigner": "",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "反水反水反水",
+                    "jacketDesigner": "",
+                    "rating": 8,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "煌磨煌磨煌磨",
+                    "jacketDesigner": "",
                     "rating": 10
                 }
             ]
