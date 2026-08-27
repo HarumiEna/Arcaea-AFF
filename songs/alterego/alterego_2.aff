@@ -1343,9 +1343,8 @@ arc(157351,157582,0.25,0.50,sosi,0.50,0.00,1,none,false);
 arc(157428,157659,0.00,-0.25,siso,1.00,0.50,0,none,false);
 arc(157659,157890,-0.25,0.00,sosi,0.50,0.00,0,none,false);
 timinggroup(){
-  timing(0,195.00,4.00);
+  timing(0,24.38,4.00);
   scenecontrol(0,hidegroup,0.00,1);
-  timing(3000,24.38,4.00);
   scenecontrol(13736,hidegroup,0.00,0);
   scenecontrol(13967,hidegroup,0.00,1);
   scenecontrol(14967,hidegroup,0.00,0);
@@ -1358,7 +1357,7 @@ timinggroup(){
 timinggroup(){
   timing(0,195.00,4.00);
   scenecontrol(0,hidegroup,0.00,1);
-  timing(3000,24.38,4.00);
+  timing(1,24.38,4.00);
   scenecontrol(16428,hidegroup,0.00,0);
   timing(16813,195.00,4.00);
   hold(17121,17352,1);
@@ -1564,12 +1563,12 @@ timinggroup(){
   arc(3692,3692,0.75,0.50,s,1.00,0.00,0,none,true);
   arc(3692,3692,0.75,0.50,s,1.00,0.00,0,none,true);
   arc(3692,4615,0.50,-0.25,si,0.00,0.00,1,none,true)[arctap(3692),arctap(4000),arctap(4154),arctap(4308),arctap(4462),arctap(4615)];
-  arc(4615,4923,-0.25,0.00,so,0.00,0.00,1,none,true)[arctap(4923)];
+  arc(4615,4923,-0.25,0.00,so,0.00,0.00,1,none,true);
   (4769,2);
   (4846,3);
   arc(4923,4923,-0.25,0.00,s,0.00,1.00,1,none,true);
   arc(4923,4923,-0.25,0.00,s,0.00,1.00,1,none,true);
-  arc(4923,5846,0.00,0.75,si,1.00,1.00,1,none,true)[arctap(5231),arctap(5462),arctap(5538)];
+  arc(4923,5846,0.00,0.75,si,1.00,1.00,1,none,true)[arctap(4923),arctap(5231),arctap(5462),arctap(5538)];
   arc(4923,4923,0.25,-0.25,s,0.00,0.00,1,none,true);
   arc(4923,4923,0.25,-0.25,s,0.00,0.00,1,none,true);
   arc(4923,4923,0.25,0.00,s,0.00,1.00,1,none,true);
